@@ -3,7 +3,7 @@ Songs Analysis Dashboard
 Overview
 The Songs Analysis Dashboard project provides a comprehensive analysis of various performance and engagement metrics related to popular songs. The goal is to identify patterns and insights that help understand the popularity and audience engagement of different songs.
 
-Table of Contents
+# Table of Contents
 Overview
 Features
 Data Source
@@ -29,7 +29,7 @@ Analysis of videos with the longest durations
 Data Source
 The data for this project is sourced from a dataset containing detailed information about various songs. Key columns include video ID, channel title, title, description, tags, published date, view count, like count, favorite count, comment count, duration, definition, and caption status.
 
-Key Metrics
+# Key Metrics
 Total Likes: 2 billion
 Total Views: 231 billion
 Total Songs: 19.34 thousand
